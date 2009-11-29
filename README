@@ -1,0 +1,8 @@
+                        dirtylinks ~ share links via git
+
+USAGE
+
+    $ cat >> ~/.gitconfig
+    [alias]
+      msg = commit --allow-empty -m
+    $ git msg "Ryan doesn't sucks. ~ http://ozmm.org/posts/git_msg.html"
