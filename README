@@ -5,4 +5,4 @@ USAGE
     $ cat >> ~/.gitconfig
     [alias]
       msg = commit --allow-empty -m
-    $ git msg "Ryan doesn't sucks. ~ http://ozmm.org/posts/git_msg.html"
+    $ git msg "Ryan doesn't suck. ~ http://ozmm.org/posts/git_msg.html"
